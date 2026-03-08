@@ -1,0 +1,15 @@
+{
+  "name": "web-e2e-test",
+  "owner": {
+    "name": "hideak1",
+    "url": "https://github.com/hideak1"
+  },
+  "plugins": [
+    {
+      "name": "web-e2e-test",
+      "source": "./",
+      "description": "End-to-end testing skill for web projects — generates and runs Playwright browser tests to catch real bugs that unit tests miss",
+      "version": "1.0.0"
+    }
+  ]
+}

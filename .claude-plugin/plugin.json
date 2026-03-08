@@ -1,0 +1,20 @@
+{
+  "name": "web-e2e-test",
+  "version": "1.0.0",
+  "description": "End-to-end testing skill for web projects. Generates Playwright browser tests using a QA agent (OpenAI Codex or Claude) and produces actionable test reports — designed to catch the real bugs that pass unit tests but break in the browser.",
+  "author": {
+    "name": "hideak1",
+    "url": "https://github.com/hideak1"
+  },
+  "repository": "https://github.com/hideak1/web-e2e-test",
+  "license": "MIT",
+  "keywords": [
+    "e2e",
+    "end-to-end",
+    "playwright",
+    "testing",
+    "browser",
+    "codex",
+    "qa"
+  ]
+}

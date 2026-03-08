@@ -1,0 +1,6 @@
+node_modules/
+e2e-tests/results/
+e2e-tests/reports/
+e2e-tests/generated/
+docs/
+.DS_Store
